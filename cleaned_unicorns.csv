@@ -1,0 +1,651 @@
+Company,Valuation_Billion_USD,Valuation_Date,Industry,Country,Founders,Mega_Decacorn,Index_Col
+Anthropic,965.0,May 2026 (2026-05)[20],Artificial Intelligence,United States,"Dario Amodei, Daniela Amodei, Jared Kaplan, Jack Clark, Ben Mann, Tom Brown, Sam McCandlish, Chris Olah",1,0
+OpenAI,852.0,March 2026 (2026-03)[21],Artificial intelligence,United States,"Sam Altman, Elon Musk, Greg Brockman, Ilya Sutskever",1,1
+ByteDance,600.0,April 2026[22],Internet,China,"Zhang Yiming, Liang Rubo",1,2
+Tether,350.0,February 2026 (2026-02)[23],Cryptocurrency,El Salvador,"Paolo Ardoino, Brock Pierce",1,3
+Databricks,190.0,August 2026 (2026-08)[24],Software,United States,"Ali Ghodsi, Andy Konwinski, Ion Stoica, Reynold Xin, Matei Zaharia",1,4
+Stripe,159.0,February 2026 (2026-02)[25],Financial services,United States and  Ireland,Patrick and John Collison,1,5
+Revolut,115.0,October 2026 (2026-10)[26],Financial services,United Kingdom,"Nikolay Storonsky, Vlad Yatsenko",1,6
+Anduril Industries,61.0,May 2026[27],Defense technology,United States,"Palmer Luckey, Trae Stephens, Matt Grimm, Joe Chen, Brian Schimpf",1,7
+Ramp,60.0,October 2026 (2026-10)[28],Financial technology,United States,"Eric Glyman, Karim Atiyeh, Gene Lee",1,8
+Cognition AI,48.0,September 2026 (2026-09)[29],Artificial Intelligence,United States,"Scott Wu, Steven Hao, Walden Yan",1,9
+Canva,42.0,October 2024 (2024-10)[30],Graphic design,Australia,"Melanie Perkins, Cliff Obrecht, Cameron Adams",1,10
+Prometheus,41.0,June 2026 (2026-06)[31],Artificial Intelligence,United States,"Jeff Bezos, Vik Bajaj",1,11
+Figure AI,39.0,September 2025 (2025-09)[32],Humanoid robotics,United States,Brett Adcock,1,12
+Safe Superintelligence,32.0,April 2025[33],Artificial Intelligence,United States and  Israel,"Ilya Sutskever, Daniel Gross, Daniel Levy",1,13
+VAST Data,30.0,March 2026 (2026-03)[34],Artificial Intelligence,United States,"Renen Hallak, Shachar Fienblit, Jeff Denworth, Alon Horev",1,14
+Telegram,30.0,January 2021 (2021-01)[35],Internet,United Arab Emirates,Nikolai and Pavel Durov,1,15
+Scale AI,29.0,June 2025,Artificial intelligence,United States,"Alexandr Wang, Lucy Guo",1,16
+Fanatics,27.0,June 2022 (2022-06)[14],E-commerce,United States,"Alan Trager, Mitch Trager, Michael Rubin[36]",1,17
+Epic Games,22.5,February 2024 (2024-02)[37],Video games,United States,Tim Sweeney,1,18
+ElevenLabs,22.0,September 2026 (2026-09)[38],AI Audio technologies,Poland,"Mati Staniszewski, Piotr Dabkowski",1,19
+Kalshi,22.0,May 2026[39],Finance,United States,Tarek Mansour and Luana Lopes Lara,1,20
+Etched,21.0,August 2026 (2026-08)[40],Artificial intelligence,United States,"Gavin Uberti, Chris Zhu, Robert Wachen",1,21
+Perplexity AI,20.0,September 2025 (2025-09)[41],Artificial Intelligence,United States,"Aravind Srinivas, Denis Yarats, Johnny Ho, Andy Konwinski",1,22
+Chobani,20.0,October 2025[42],Consumer staples,United States,Hamdi Ulukaya,1,23
+Groq,20.0,Dec 2025[43],Artificial intelligence,United States,Jonathan Ross,1,24
+Rippling,16.8,May 2025[44],Workforce management,United States,,1,25
+Harvey,15.5,September 2026 (2026-09)[45],Artificial intelligence,United States,"Winston Weinberg, Gabriel Pereyra",1,26
+Helion Energy,15.5,June 2026[46],Fusion power,United States,"David Kirtley, Chris Pihl, George Votroubek",1,27
+Yuanfudao,15.5,October 2020 (2020-10)[47],Educational technology,China,Yong Li,1,28
+Discord,15.0,September 2021 (2021-09)[48],Software,United States,"Jason Citron, Stanislav Vishnevsky",1,29
+DJI,15.0,September 2016 (2016-09)[1],Technology,China,Frank Wang (Wang Tao),1,30
+GoPuff,15.0,July 2021 (2021-07)[49],E-commerce,United States,"Yakir Gola, Rafael Ilishayev",1,31
+Nscale,14.6,March 2026[50],Artificial Intelligence,United Kingdom,Josh Payne,1,32
+Mistral AI,14.0,September 2025 (2025-09)[51],Artificial Intelligence,France,"Arthur Mensch, Guillaume Lample, Timothée Lacroix",1,33
+Xiaohongshu,14.0,September 2023 (2023-09)[52],E-commerce,China,"Miranda Qu Fang, Charlwin Mao Wenchao",1,34
+Helsing,14.0,September 2025 (2025-09)[53],Defense,Germany,"Torsten Reil, Gundbert Scherf, Niklas Köhler",1,35
+Skild AI,14.0,January 2026[54],Robotics,United States,Deepak Pathak,1,36
+Plaid,13.4,April 2021 (2021-04)[55],Financial technology,United States,"Zach Perret, William Hockey",1,37
+Lovable,13.3,August 2026 (2026-08)[56],Artificial intelligence,Sweden,"Anton Osika, Fabian Hedin",1,38
+OpenSea,13.3,August 2025[57],Financial Technology,United States,"Devin Finzer, Chris Maddern",1,39
+Superhuman,13.0,November 2021 (2021-11)[58],Collaborative software,Ukraine/ United States,"Alex Shevchenko, Max Lytvyn, and Dmytro Lider",1,40
+Shield AI,12.6,March 2026[61],Defense Technology,United States,"Brandon Tseng, Ryan Tseng, and Andrew Reiter",1,41
+Devoted Health,12.6,October 2021 (2021-10)[62],Healthcare,United States,Todd Park,1,42
+Faire,12.59,November 2021 (2021-11)[63],E-commerce,United States,Max Rhodes,1,43
+Labs Companies,12.5,April 2025 (2025-04)[64][65],"Frontier Intelligences, Superintelligence, Human-enhancement AI",United States,"Duránd F. Davis Jr., and Maya Elz Davis",1,44
+NinjaOne,12.3,June 2026[66],Software,United States,Sal Sferlazza and Chris Matarese,1,45
+Cyera,12.0,June 2026[67],Cybersecurity,United States and  Israel,"Yotam Segev, Tamar Bar-Ilan, and Yonatan Itay[69]",1,46
+Thinking Machines Lab,12.0,July 2025[70],Artificial intelligence,United States,Mira Murati,1,47
+OpenEvidence,12.0,January 2026[71],Health Technology,United States,Daniel Nadler,1,48
+Biosplice Therapeutics,12.0,April 2021[72],Health,United States,Osman Kibar,1,49
+Bitmain,12.0,June 2018,Cryptocurrency,China,Jihan Wu,1,50
+GoodLeap,12.0,October 2021[73],Financial technology,United States,"Hayes Barnard, Jason Walker, Matt Dawson",1,51
+Checkout.com,12.0,September 2025[74],Financial technology,United Kingdom,Guillaume Pousaz,1,52
+Whatnot,11.5,November 2025[75],E-Commerce,United States,"Grant LaFontaine (CEO), Logan Head",1,53
+Celonis,11.0,June 2021[76],Software,Germany,"Alex Rinke, Bastian Nominacher, Martin Klenk",1,54
+ZongMu Technology,11.0,June 2021[77],Self-driving cars,China,Tang Rui[78],1,55
+Bilt Rewards,10.75,July 2025,Financial Technology,United States,Ankur Jain,1,56
+Colossal Biosciences,10.2,January 2025 [79],Biotechnology,United States,"George Church, Ben Lamm",1,57
+Alchemy,10.2,January 2022 [80],Blockchain,United States,Joe Lau and Nikil Viswanathan,1,58
+WHOOP,10.1,March 2026 (2026-03)[81],Wearable technology,United States,Will Ahmed,1,59
+Chehaoduo,10.0,July 2021[82],Marketplace,China,,0,60
+Digital Currency Group,10.0,November 2021[83],Venture capital,United States,Barry Silbert,0,61
+Gusto,10.0,August 2021[84],Software,United States,"Joshua Reeves, Edward Kim, Tomer London",0,62
+Instinct,10.0,September 2026 (2026-09)[85],Artificial Intelligence,United States,Noah Shinn,0,63
+KuCoin,10.0,May 2022[86],Cryptocurrency,Seychelles,"Chun Gan, Ke Tang, Johnny Lyu",0,64
+Lalamove,10.0,January 2021[87],Supply chain management,Hong Kong /  China,Chow Shing-Yuk,0,65
+Mercor,10.0,October 2025[88],Artificial Intelligence,United States,"Brendan Foody, Adarsh Hiremath, Surya Midha",0,66
+Notion Labs,10.0,October 2021[89],Productivity software,United States,"Ivan Zhao, Simon Last, Akshay Kothari, Chris Prucha, Jessica Lam, Toby Schachman",0,67
+Polygon Technology,10.0,February 2022[90],"Blockchain, Web3",India /  Cayman Islands,"Jaynti Kanani, Sandeep Nailwal, Anurag Arjun, Mihailo Bjelic",0,68
+Ripple,10.0,December 2019[92],Cryptocurrency,United States,"Chris Larsen, Jed McCaleb",0,69
+Talkdesk,10.0,August 2021[93],Software as a service,Portugal /  United States,"Cristina Fonseca, Tiago Paiva",0,70
+Oyo,9.6,August 2021[94],Hospitality,India,Ritesh Agarwal,0,71
+OutSystems,9.5,February 2021[95],Software development,Portugal /  United States,"Paulo Rosado, Rui Pereira",0,72
+Vercel,9.3,September 2025[98],Cloud computing / AI,United States,Guillermo Rauch,0,73
+HeyTea,9.3,July 2021[99],Retail,China,,0,74
+Neuralink,9.0,May 2025[100],Neurotechnology,United States,Elon Musk,0,75
+Replit,9.0,March 2026 (2026-03)[101],Artificial Intelligence,United States,"Amjad Masad, Faris Masad, Haya Odeh",0,76
+Tanium,9.0,June 2020[102],Cybersecurity,United States,"David Hindawi, Orion Hindawi",0,77
+Legora,8.8,October 2026 (2026-10)[103],Artificial intelligence,Sweden,"Max Junestrand, Sigge Labor, August Erséus",0,78
+Kavak,8.7,October 2021[104],Marketplace,Mexico,Carlos García Ottati,0,79
+Rapyd,8.7,August 2021[105],Financial technology,United Kingdom,"Arik Shtilman, Arkady Karpman, Omer Priel",0,80
+Nuro,8.6,November 2021[106],Robotics,United States,"Jiajun Zhu, Dave Ferguson",0,81
+Snyk,8.5,September 2021[107],Application security,United Kingdom,"Assaf Hefetz, Danny Grander",0,82
+Bolt,8.4,January 2022[108],Transportation,Estonia,Markus Villig,0,83
+Together AI,8.3,July 2026 (2026-07)[109],Artificial Intelligence,United States,"Vipul Ved Prakash, Ce Zhang, Chris Ré, Tri Dao, Percy Liang",0,84
+Dream11,8.0,November 2021[110],Fantasy sports,India,"Harsh Jain, Bhavit Sheth",0,85
+Flexport,8.0,February 2022[111],Logistics,United States,Ryan Petersen,0,86
+Airwallex,8.0,December 2025[112],Financial services,Australia /  Hong Kong,"Jack Zhang, Max Li, Lucy Liu, Xijing Dai, Ki-lok Wong",0,87
+StarkWare Industries,8.0,May 2022 [113],Blockchain,Israel,"Eli Ben-Sasson, Michael Riabzev, Uri Kolodny, Alessandro Chiesa",0,88
+Dapper Labs,7.6,September 2021[114],NFT,Canada,,0,89
+Zipline,7.6,January 2026[115],Logistics,United States,"Keller Rinaudo Cliffton, Keenan Wyrobek, Ryan Oksenhorn, William Hetzler",0,90
+AlphaSense,7.5,June 2026[116],Software,United States (formerly  Finland),"Jaakko Kokko, Raj Neervannan",0,91
+Razorpay,7.5,December 2021[117],Financial technology,India,"Harshil Mathur, Shashank Kumar",0,92
+TypeSafe AI,7.5,October 2026 (2026-10)[118],Artificial intelligence,United States,"Diogo Almeida, Sasha Sheng, Erik Gafni",0,93
+Carta,7.4,August 2021[119],Software,United States,Henry Ward,0,94
+Ola Consumer,7.3,December 2021[120],Transportation,India,"Bhavish Aggarwal, Ankit Bhati",0,95
+Gong,4.5,November 2025 [121],June 2021,Artificial intelligence,,0,96
+PsiQuantum,7.0,March 2025[123],Quantum computing,United States,Jeremy O'BrienTerry RudolphPeter ShadboltMark Thompson,0,97
+Automation Anywhere,6.8,November 2019[124],Robotic process automation,United States,,0,98
+1Password,6.8,July 2021[125],Password manager,Canada,,0,99
+WeDoctor,6.8,February 2021[126],Healthcare,China,,0,100
+Cohere,6.8,August 2025[127],Artificial intelligence,Canada,"Aidan Gomez, Ivan Zhang, Nick Frosst",0,101
+Yanolja,6.7,July 2021[128],Hospitality,South Korea,Lee Su-jin,0,102
+Ziroom,6.6,March 2020[129],Real estate technology,China,,0,103
+Mollie,6.5,June 2021[130],Financial technology,Netherlands,,0,104
+CRED,6.4,June 2022[131],Financial technology,India,Kunal Shah,0,105
+DataRobot,6.3,July 2021[132],Artificial intelligence,United States,,0,106
+Personio,6.3,October 2021[133],Software,Germany,,0,107
+Doctolib,6.2,August 2022[134],Healthcare,France,,0,108
+Tenstorrent,6.2,October 2026[135],Semiconductors,Canada,"Ljubisa Bajic, Milos Trajkovic, Ivan Hamer",0,109
+Flapping Airplanes,6.0,October 2026[136],Artificial intelligence,United States,"Aidan Smith, Asher Spector, Ben Spector",0,110
+iCapital,6.0,2022[137],Financial services,United States,,0,111
+Xingsheng Youxuan,6.0,January 2021[138],Retail,China,,0,112
+SandboxAQ,5.6,December 2024[139],"Quantum technology, Artificial intelligence",United States,Jack HidaryEric Schmidt,0,113
+Back Market,5.8,August 2022[134],Marketplace,France,,0,114
+The Boring Company,5.7,April 2022[140],Construction,United States,Elon Musk,0,115
+Relex,5.68,February 2022[141],Supply Chain Automation,Finland,"Johanna Småros, Mikko Kärkkäinen, and Michael Falck",0,116
+Contentsquare,5.6,August 2022[134],Software as a service,France,,0,117
+Fivetran,5.6,September 2021[142],Data infrastructure,United States,,0,118
+Postman,5.6,August 2021[143],Software as a service,India /  United States,,0,119
+PhonePe,5.5,December 2020[144],Financial technology,India,"Sameer Nigam, Rahul Chari",0,120
+Viva Republica (Toss),5.48,June 2021[145],Financial technology,South Korea,,0,121
+Higgsfield,5.4,August 2026[146],Artificial Intelligence,United States,Alex Mashrabov,0,122
+Trade Republic,5.3,May 2021[147],Financial technology,Germany,,0,123
+Rappi,5.25,July 2021[148],Transportation,Colombia,,0,124
+Oura Health,5.2,December 2024[149],Wearables,Finland,"Petteri Lahtela, Kari Kivelä, and Markku Koskela",0,125
+Blockchain.com,5.2,March 2021[150],Cryptocurrency,United Kingdom,,0,126
+Ineffable Intelligence,5.1,April 2026 (2026-04)[151],Artificial intelligence,United Kingdom,David Silver,0,127
+OneTrust,5.1,December 2020[152],Cybersecurity,United Kingdom /  United States,,0,128
+SambaNova,5.1,April 2021[153],Artificial intelligence,United States,,0,129
+CloudKitchens,5.0,November 2019[155],Ghost kitchen,United States,,0,130
+Hello TransTech,5.0,March 2021[156],Transportation,China,,0,131
+Hopper,5.0,August 2021[157],Travel,Canada,,0,132
+OfBusiness,5.0,December 2021[158],B2B e-commerce,India,"Bhuvan Gupta, Vasant Sridhar, Ruchi Kalra, Nitin Jain, Asish Mohapatra",0,133
+Qonto,5.0,August 2022[134],Finance,France,"Steve Anavi, Alexandre Prot",0,134
+River AI,5.0,August 2026[159],Artificial intelligence,United States,Igor Babuschkin,0,135
+Ro,5.0,March 2021[160],Health technology,United States,,0,136
+Wonderful,5.0,September 2026 (2026-09)[161],Artificial intelligence,Israel/ Netherlands,"Bar Winkler, Roey Lalazar",0,137
+Zepz,5.0,August 2021[162],Financial technology,United Kingdom,,0,138
+Animoca Brands,5.0,January 2022[163],Blockchain gaming,Hong Kong,Yat Siu,0,139
+Octopus Energy,5.0,December 2021[164],Energy supply,United Kingdom,,0,140
+Pleo,4.7,December 2021[165],Financial technology,Denmark,,0,141
+Checkr,4.6,August 2021[166],Human resource management,United States,,0,142
+Dataiku,4.6,August 2021[167],Artificial intelligence,France /  United States,,0,143
+GetBlock,4.6,June 2020,Blockchain,Georgia,Steven Lloyd,0,144
+Sorare,4.6,August 2022[134],Fantasy sports,France,,0,145
+Magic Leap,4.5,February 2016[1][5],Augmented reality,United States,,0,146
+Socure,4.5,November 2021[168],Identity management,United States,,0,147
+Vinted,4.5,May 2021[169],Marketplace,Lithuania,"Milda Mitkutė, Justas Janauskas",0,148
+Quince,4.5,July 2025[170],Enterprise Technology,United States,"Sid Gupta, Zunu Mittal, Sourabh Mahajan",0,149
+Outreach,4.4,June 2021[171],Sales,United States,,0,150
+Arctic Wolf Networks,4.3,July 2021[172],Cybersecurity,United States,,0,151
+Chainalysis,4.2,June 2021[173],Blockchain,United States,,0,152
+Relativity Space,4.2,June 2021[174],Aerospace,United States,,0,153
+Bitpanda,4.1,August 2021[175],Cryptocurrency,Austria,,0,154
+Dataminr,4.1,March 2021[176],Data analytics,United States,,0,155
+Yello Mobile,4.05,November 2016[5][177],Software industry,South Korea,,0,156
+Abnormal Security,4.0,May 2022[178],Cybersecurity,United States,"Evan Reiser, Sanjay Jeyakumar",0,157
+Branch Metrics,4.0,February 2022[179],Marketing,United States,,0,158
+BrowserStack,4.0,June 2021[180],Software,India,"Ritesh Arora, Nakul Aggarwal",0,159
+Clubhouse,4.0,April 2021[181],Messaging,United States,Paul Davison and Rohan Seth,0,160
+EliseAI,4.0,September 2026 (2026-09)[182],Artificial intelligence,United States,"Minna Song, Tony Stoyanov",0,161
+Houzz,4.0,June 2017[183],Interior design,United States,,0,162
+Megvii,4.0,May 2019[184],Technology,China,,0,163
+Melio,4.0,September 2021[185],Financial technology,Israel,,0,164
+Patreon,4.0,April 2021[186],Online membership service,United States,"Jack Conte, Sam Yam",0,165
+PointClickCare,4.0,January 2021[187],Software,Canada,,0,166
+QuintoAndar,4.0,May 2021[188],Real estate,Brazil,,0,167
+Niantic,3.95,January 2019[189],Video games,United States,,0,168
+StockX,3.8,April 2021[190],E-commerce,United States,,0,169
+Articulate,3.75,July 2021[191],Educational technology,United States,,0,170
+Cohesity,3.7,March 2021[192],Software,United States,,0,171
+Noom,3.7,May 2021[193],Healthcare,United States,,0,172
+PAPAYA Global,3.7,September 2021[194],Workforce management,Israel /  United States,,0,173
+ShareChat,3.7,December 2021[195],Social network,India,"Ankush Sachdeva, Bhanu Pratap Singh, Farid Ahsan",0,174
+Shouqi,3.55,December 2016[196],Transportation,China,,0,175
+Coalition,3.5,September 2021[197],Cybersecurity,United States,,0,176
+Commure,3.5,September 2021[198],Health technology,United States,,0,177
+Mirakl,3.5,September 2021[199],Marketplace,France,,0,178
+N26,3.5,July 2019[200],Financial services,Germany,,0,179
+Preferred Networks,3.33,September 2019[201],Artificial intelligence,Japan,,0,180
+CARS24,3.3,December 2021[202],Marketplace,India,"Vikram Chopra, Mehul Agrawal, Gajendra Jangid and Ruchit Agarwal",0,181
+Kurly,3.3,July 2021[203],E-commerce,South Korea,,0,182
+Youxia Motors,3.3,October 2018[204],Electric vehicles,China,,0,183
+MoonPay,3.4,November 2021[205],Cryptocurrency,United States,,0,184
+Upstox,3.4,November 2021[206],Financial technology,India,"Ravi Kumar, Kavitha Subramanian, Shrini Viswanath",0,185
+Plus.ai,3.3,May 2021[207],Self-driving trucks,United States,,0,186
+Starburst Data,3.3,February 2022[208],Data analytics,United States,"Justin Borgman, Matt Fuller, Kamil Bajda-Pawlikowski, Anu Sudarsan, Wojciech Biela, Grzegorz Kokosiński, Lukasz Osipiuk, Martin Traverso[209]",0,187
+Thumbtack,3.2,June 2021[210],Software,United States,Marco Zappacosta,0,188
+ApplyBoard,3.2,June 2021[211],Educational technology,Canada,"Martin Basiri, Massi Basiri, Meti Basiri",0,189
+Blockstream,3.2,August 2021[212],Blockchain,Canada,,0,190
+ConsenSys,3.2,November 2021[213],Blockchain,United States,,0,191
+Flutterwave,3.2,June 2026 (2026-06)[214],Financial technology,Nigeria /  United States,"Olugbenga Agboola , Iyinoluwa Aboyeji",0,192
+Verkada,3.2,September 2022[215],Physical security,United States,"Filip Kailiszan, James Ren, Benjamin Bercowitz, Hans Robertson",0,193
+Eruditus,3.2,August 2021[216],Educational technology,India,,0,194
+SpotOn,3.15,September 2021[217],Financial technology,United States,,0,195
+TiendaNube,3.1,August 2021[218],E-commerce,Argentina,,0,196
+Udaan,3.1,January 2021[219],B2B e-commerce,India,"Vaibhav Gupta, Amod Malviya, Sujeet Kumar",0,197
+CMR Surgical,3.0,January 2021[221],Robotics,United Kingdom,,0,198
+Traveloka,3.0,January 2017[222],Travel,Indonesia,,0,199
+ActiveCampaign,3.0,April 2021[223],Marketing,United States,,0,200
+"Age of Learning, Inc.",3.0,June 2021[224],Education,United States,,0,201
+Automattic,3.0,September 2019[225],Internet,United States,Matt Mullenweg,0,202
+Calendly,3.0,January 2021[226],Software,United States,Tope Awotona[227],0,203
+Contentful,3.0,July 2021[228],Content management system,Germany,,0,204
+Forter,3.0,May 2021[229],Software,Israel /  United States,,0,205
+Grafana Labs,3.0,August 2021[230],Software,United States,,0,206
+Lucid Software,3.0,June 2021[231],Software,United States,,0,207
+MessageBird,3.0,October 2020[232],Cloud communications,Netherlands,,0,208
+Seismic,3.0,August 2021[233],Software,United States,,0,209
+Sky Mavis,3.0,October 2021[234],Video games,Vietnam,,0,210
+Souche,3.0,September 2018[235],Marketplace,China,,0,211
+TradingView,3.0,October 2021[236],Finance,United Kingdom,,0,212
+Aiven,3.0,May 2022[237],Data infrastructure,Finland,"Hannu Valtonen, Heikki Nousiainen, Oskari Saarenmaa",0,213
+VANCL,3.0,February 2014[5],E-commerce,China,,0,214
+Veepee,3.0,August 2022[134],E-commerce,France,,0,215
+VIPKID,3.0,June 2018[238],Education,China,,0,216
+Wefox,3.0,June 2021[239],Insurance,Germany,,0,217
+Workrise,2.9,May 2021[240],Workforce management,United States,,0,218
+DriveWealth,2.85,August 2021[241],Financial technology,United States,,0,219
+BharatPe,2.8,August 2021[242],Financial technology,India,Ashneer Grover,0,220
+Icertis,2.8,March 2021[243],Software,India /  United States,"Samir Bodas, Monish Darda.",0,221
+OakNorth,2.8,February 2019[244],Finance,United Kingdom,,0,222
+Astranis,2.8,May 2026,Space technology,United States,"John Gedmark, Ryan McLinko",0,223
+Abridge,2.75,May 2025[245],Healthcare technology and AI,United States,Shiv Rao,0,224
+Illumio,2.75,June 2021[246],Cybersecurity,United States,,0,225
+MasterClass,2.75,May 2021[247],Educational technology,United States,,0,226
+Dream Games,2.75,January 2022 (2022-01)[248],Gaming,Turkey,,0,227
+Daangn Market,2.7,August 2021[249],E-commerce,South Korea,,0,228
+Tridge,2.7,August 2022[250],Software as a service,South Korea,,0,229
+Nextiva,2.7,September 2021[251],Software,United States,,0,230
+Tradeshift,2.7,March 2021[252],Financial technology,United States,,0,231
+Odoo,2.63,July 2021[253],CRM,Belgium,,0,232
+AmWINS Group,2.6,October 2016[254],Insurance,United States,,0,233
+ManoMano,2.6,July 2021[255],E-commerce,France,,0,234
+Pendo,2.6,July 2021[256],Software,United States,,0,235
+Sourcegraph,2.6,July 2021[257],Developer platform,United States,,0,236
+Jumpcloud,2.56,September 2021[258],Software,United States,,0,237
+Cato Networks,2.5,October 2021[259],Cybersecurity,Israel,,0,238
+EasyA,2.5,May 2024[260],Technology,United Kingdom,"Phil Kwok, Dom Kwok",0,239
+Infra.Market,2.5,August 2021[261],Marketplace,India,"Aaditya Sharda, Souvik Sengupta",0,240
+Mews (company),2.5,January 2026[263],Hospitality management platform,Czech Republic,Richard Valtr,0,241
+Monzo,2.5,June 2019[264],Financial services,United Kingdom,,0,242
+Suno,2.45,November 2025[265],Artificial intelligence,United States,,0,243
+Ualá,2.45,November 2019,Personal finance,Argentina,,0,244
+HoneyBook,2.4,November 2021[266],Financial services,Israel /  United States,,0,245
+BitSight,2.4,September 2021[267],Cybersecurity,United States,"Nagarjuna Venna, Stephen Boyer",0,246
+Exabeam,2.4,June 2021[268],Cybersecurity,United States,,0,247
+Paxos,2.4,April 2021[269],Cryptocurrency,United States,,0,248
+Mozido,2.39,October 2014[5],E-commerce,United States,,0,249
+Starcloud,2.3,March 2026 (2026-03)[270],Orbital Data Centers,United States,"Philip Johnston, Ezra Feilden, Adi Oltean",0,250
+Headway,2.3,July 2024[271],Healthcare,United States,Andrew Adams,0,251
+Highspot,2.3,February 2021[272],Sales,United States,,0,252
+MPL,2.3,September 2021[273],Mobile gaming,India,,0,253
+Uzum,2.3,March 2026[274],"E-commerce, Financial technology",Uzbekistan,"Djasur Djumaev, Nikolay Seleznev, Roman Lavrentyev",0,254
+Uptake,2.3,November 2017[275],Asset performance management,United States,,0,255
+Algolia,2.25,June 2021[276],Software,France /  United States,,0,256
+KeepTruckin,2.25,June 2021[277],Logistics,United States,,0,257
+Acorns,2.2,May 2021[278],Financial technology,United States,,0,258
+Bitso,2.2,May 2021[279],Cryptocurrency,Mexico,,0,259
+Blackwall,2.2,October 2026 (2026-10)[280],Cybersecurity,Estonia,Nikita Rozenberg,0,260
+"Wellhub, formally Gympass",2.2,June 2021[281],Fitness,Brazil /  United States,,0,261
+Transmit Security,2.2,June 2021[282],Cybersecurity,Israel /  United States,,0,262
+Addepar,2.17,June 2021[283],Financial technology,United States,,0,263
+Gamma,2.1,November 2025[285],Artificial intelligence,United States,Grant Lee,0,264
+PayFit,2.1,January 2022 (2022-01)[286],Software,France,"Ghislain de Fontenay, Firmin Zoccchetto, Florian Fournier",0,265
+6sense,2.1,March 2021[287],Artificial intelligence,United States,,0,266
+C6 Bank,2.1,December 2020[288],Financial services,Brazil,,0,267
+Mambu,2.1,January 2021[289],Financial technology,Germany,,0,268
+Webflow,2.1,January 2021[290],Web development,United States,,0,269
+Hive,2.0,April 2021[295],Artificial intelligence,United States,"Kevin Guo, Dmitriy Karpman",0,270
+Mural,2.0,July 2021[296],Technology,Argentina /  United States,Patricio Jutard,0,271
+AppsFlyer,2.0,November 2020[297],Mobile marketing analytics,Israel /  United States,,0,272
+BlaBlaCar,2.0,April 2021[298],Transportation,France,,0,273
+Calm,2.0,December 2020[299],Digital health,United States,"Michael Acton Smith, Alex Tew",0,274
+ClickHouse,2.0,October 2021[300],Database management,United States,,0,275
+Clip,2.0,June 2021[301],Financial technology,Mexico,,0,276
+Cockroach Labs,2.0,January 2021[302],Database management,United States,,0,277
+Divvy Homes,2.0,August 2021[303],Real estate technology,United States,,0,278
+Druva,2.0,April 2021[304],Cloud computing,India /  United States,,0,279
+Exotec,2.0,August 2022[134],Robotics,France,,0,280
+Firstp2p,2.0,September 2016[5],Financial services,China,,0,281
+Formlabs,2.0,May 2021[305],3D printing,United States,,0,282
+Huimin.cn,2.0,September 2016[196],B2B e-commerce,China,,0,283
+Iterable,2.0,June 2021[306],Marketing,United States,,0,284
+Kry,2.0,April 2021[307][308],Healthcare,Sweden,,0,285
+Meicai.cn,2.0,June 2016[196],"Agriculture, E-commerce",China,,0,286
+Mynt,2.0,November 2021[309],Financial technology,Philippines,,0,287
+OPay,2.0,August 2021[310],Financial technology,Nigeria,,0,288
+PixVerse,2.0,July 2026 (2026-07)[311],Artificial Intelligence,Singapore,,0,289
+Simile,2.0,July 2026 (2026-07)[312],Artificial Intelligence,United States,"Joon Sung Park, Michael Bernstein, Percy Liang",0,290
+Sword Health,2.0,November 2021[313],Health,Portugal /  United States,"Virgílio Bento, Márcio Colunas",0,291
+Trendy International Group,2.0,February 2012[5][314],"Fashion, Retail",China /  Hong Kong,,0,292
+Unqork,2.0,October 2020[315],Software development,United States,,0,293
+Zerodha,2.0,May 2021[316],Financial technology,India,,0,294
+Instabase,2.0,June 2023[317],Software,United States,Anant Bhardwaj,0,295
+Zilch,2.0,November 2021[318],Financial technology,United Kingdom,,0,296
+Akulaku,2.0,February 2022[319],Financial technology,Indonesia,,0,297
+Ankorstore,1.98,August 2022[134],Marketplace,France,,0,298
+Avant,1.98,September 2015[5],Consumer finance,United States,,0,299
+ThoughtSpot,1.95,August 2019[320][321],Analytics,United States,,0,300
+Sanpower Group,1.93,March 2018[196],Holding company,China,,0,301
+ZigBang,1.93,June 2022[322],Property technology,South Korea,,0,302
+Bunq,1.9,July 2021[323],Financial services,Netherlands,,0,303
+CoinSwitch Kuber,1.9,October 2021[324],Cryptocurrency,India,"Ashish Singhal, Vimal Sagar Tiwari, Govind Soni",0,304
+Dfinity,1.9,August 2018[325],Cloud computing,Switzerland,,0,305
+Prosper Marketplace,1.9,August 2015[5],Financial technology,United States,,0,306
+Musinsa,1.89,November 2019[326],Fashion,South Korea,,0,307
+Apus Group,1.85,August 2017[196],Mobile internet,China,,0,308
+MEGAZONE,1.83,Aug 2022[327],Cloud computing,South Korea,,0,309
+Landa Digital Printing,1.8,June 2018[328],Printing,Israel,,0,310
+Lightricks,1.8,September 2021[329],Software development,Israel,,0,311
+NantOmics,1.8,June 2015[5],Biotechnology,United States,,0,312
+Orca Security,1.8,October 2021[330],Cybersecurity,Israel,,0,313
+Quora,1.8,April 2017[331],Social network,United States,,0,314
+Radiant Nuclear,1.8,December 2025[332],Energy Technology,United States,,0,315
+Zocdoc,1.8,August 2015[5],Healthcare,United States,,0,316
+L&P Cosmetic,1.78,March 2018[326],Cosmetics,South Korea,,0,317
+Creditas,1.75,December 2020,Financial services,Brazil,,0,318
+Spinny,1.75,November 2021[333],Marketplace,India,"Niraj Singh, Ramanshu Mahaur, Ganesh Pawar, Mohit Gupta",0,319
+Trulioo,1.75,June 2021[334],Identity management,Canada,,0,320
+Productboard,1.725,February 2022[335],Product management platform,Czech Republic,"Daniel Hejl, Hubert Palan",0,321
+ADVASA,1.7,January 2023 [336],Software,Japan,,0,322
+Carsome,1.7,Jan 2022[337],Marketplace,Malaysia,,0,323
+Dragos,1.7,October 2021[338],Cybersecurity,United States,,0,324
+Dutchie.com,1.7,March 2021[339],Cannabis,United States,,0,325
+GVE,1.7,January 2023 [336],Software,Japan,,0,326
+Harness,1.7,June 2021[340],Software,United States,Jyoti Bansal,0,327
+PAX Labs,1.7,April 2019[341],Cannabis,United States,,0,328
+Vestiaire Collective,1.7,September 2021[342],Marketplace,France,,0,329
+Voodoo,1.7,August 2022[134],Gaming,France,,0,330
+Workato,1.7,December 2020,Technology,United States,,0,331
+Alan,1.68,April 2021[343],Health technology,France,,0,332
+Incredible Health,1.65,August 2022[344],Healthcare Technology,United States,"Iman Abuzeid, Rome Portlock",0,333
+HiBob,1.65,October 2021[345],HR technology,Israel /  United States,,0,334
+Solarisbank,1.65,July 2021[346],Financial technology,Germany,,0,335
+Wayflyer,1.6,Feb 2022[347],Financial technology,Ireland,,0,336
+Aiways,1.6,April 2018[196],Electric vehicles,China,,0,337
+Cresta,1.6,March 2022[4],Artificial intelligence,United States,"Sebastian Thrun, Tim Shi, Zayd Enam",0,338
+Clari,1.6,March 2021[348],Software,United States,,0,339
+Clio,1.6,April 2021[349],Legal technology,Canada,,0,340
+Cognite,1.6,May 2021,Software,Norway,,0,341
+HomeLight,1.6,September 2021[350],Real estate,United States,,0,342
+Nord Security,1.6,April 2022[351],VPN service,Lithuania,"Tom Okman, Eimantas Sabaliauskas, Jonas Karklys",0,343
+SafetyCulture,1.6,May 2021[352],Technology,Australia,Luke Anear,0,344
+SmartHR,1.6,May 2021[353],HR technology,Japan,,0,345
+Unite Us,1.6,March 2021[354],Healthcare,United States,,0,346
+Vanta,1.6,June 2022[355],Cybersecurity,United States,Christina Cacioppo,0,347
+KreditBee,1.5,April 2026 (2026-04)[358],Financial technology,India,Madhusudan Ekambaram,0,348
+Airbyte,1.5,December 2021[359],Software,United States,"Michel Tricot, John Lafleur",0,349
+Andela,1.5,September 2021[360],Education,Nigeria /  United States,,0,350
+Culture Amp,1.5,July 2021[361],Software,Australia,,0,351
+"Devo, Inc.",1.5,October 2021[362],Software,Spain,,0,352
+Granola,1.5,March 2026[363],Software,United Kingdom,"Christopher Pedregal, Sam Stephenson",0,353
+ID.me,1.5,March 2021[364],Identity verification service,United States,,0,354
+Ledger,1.5,June 2021[365],Cryptocurrency,France,,0,355
+Matillion,1.5,September 2021[366],Data analytics,United Kingdom,,0,356
+MOLOCO,1.5,August 2021[367],Advertising technology,United States,,0,357
+Molbio Diagnostics,1.5,February 2023[369],Medical device,India,,0,358
+Mu Sigma,1.5,February 2013[370],Management consulting,India /  United States,,0,359
+NextSilicon,1.5,June 2021[371],Semiconductors,Israel,,0,360
+NotCo,1.5,July 2021[372],Food technology,Chile,,0,361
+Nous Research,1.5,October 2026 (2026-10)[373],Artificial intelligence,United States,,0,362
+Podium,1.5,August 2019[374],Software,United States,,0,363
+Remote,1.5,July 2021[375],Software,Portugal /  United States,"Marcelo Lebre, Job van der Voort",0,364
+Render,1.5,"February 17, 2026 (2026-02-17)[377]",Cloud computing,United States,Anurag Goel,0,365
+Starling Bank,1.5,March 2021[378],Financial technology,United Kingdom,,0,366
+Tujia.com,1.5,October 2017[380][381],Justin Luo and Melissa Yang,China,,0,367
+Ascend Money,1.5,September 2021[382],Financial technology,Thailand,,0,368
+Suning Sports,1.47,July 2018[196],Holding company,China,,0,369
+Eka Robotics,1.45,October 2026 (2026-10)[383],Robotics,United States,"Pulkit Agrawal, Tuomas Haarnoja",0,370
+M1 Finance,1.45,July 2021[384],Financial technology,United States,,0,371
+Odyssey,1.45,June 2026 (2026-06)[385],Artificial intelligence,United States,"Oliver Cameron, Jeff Hawke",0,372
+Zeta,1.45,May 2021[386],Financial technology,India,"Bhavin Turakhia, Ramki Gaddipati",0,373
+Einride,1.44,April 2022[97],Technology,Sweden,,0,374
+Eucalyptus Health,1.4,2026[387][388],Health,Australia,"Tim Doyle
+Charlie Gearside
+Benny Kleist
+Alexey Mitko",0,375
+Deliverect,1.4,January 2022[389],Ordering software for POS,Belgium,,0,376
+Away,1.4,May 2019[390],Retail,United States,,0,377
+Bucketplace,1.4,May 2022[392],Interior design,South Korea,,0,378
+Cabify,1.4,January 2018[393],Transportation,Spain,,0,379
+Chargebee,1.4,April 2021[394],Financial technology,India /  United States,,0,380
+Epidemic Sound,1.4,March 2021[395],Music,Sweden,"Peer Åström, David Stenmarck, Oscar Höglund, Jan Zachrisson",0,381
+Five Star Finance,1.4,March 2021[396],Financial services,India,,0,382
+IAD,1.4,Oct 2021[397],Real estate,France,,0,383
+NetDocuments,1.4,May 2021[398],Software,United States,,0,384
+"Panther Labs, Inc.",1.4,December 2021[399],Computer security,United States,Jack Naglieri,0,385
+Pristyn Care,1.4,December 2021[400],Health technology,India,,0,386
+"QOMPLX, Inc.",1.4,March 2021,Computer security,United States,,0,387
+Rebel Foods,1.4,October 2021[401],Ghost kitchen,India,,0,388
+Slash,1.4,April 2026[402],Financial technology,United States,"Victor Cardenas, Kevin Bai",0,389
+Stash,1.4,February 2021[403],Financial technology,United States,,0,390
+Symphony,1.4,June 2019[404][405],Software,United States,,0,391
+Voyager,1.4,April 2022[406],Financial technology,Philippines,,0,392
+Yotpo,1.4,March 2021[407],Marketing,Israel /  United States,,0,393
+Miro,1.36,September 2026 (2026-09)[408],Software,United States,Andrey Khusid,0,394
+RIDI,1.33,August 2021[409],E-commerce,South Korea,,0,395
+Corgi,1.3,May 2026[411],Financial technology,United States,"Nico Laqua, Emily Yuan",0,396
+DistroKid,1.3,August 2021[412],Music,United States,,0,397
+Feedzai,1.3,March 2021[413],Artificial intelligence,Portugal /  United States,Nuno Sebastião,0,398
+G2,1.3,June 2021[414],Technology,United States,"Tim Handorf, Godard Abel, Matt Gorniak, Mark Myers, Mike Wheeler",0,399
+Innovaccer,1.3,February 2021[415],Health care,India /  United States,"Abhinav Shashank, Kanav Hasija, Sandeep Gupta",0,400
+Konfio,1.3,September 2021[416],Financial services,Mexico,,0,401
+Yugabyte,1.3,October 2021[417],Database management,United States,,0,402
+Airtable,1.28,August 2026 (2026-08)[418],Collaborative software,United States,"Howie Liu, Andrew Ofstad, Emmett Nicholas",0,403
+Cart.com,1.27,June 2023[419],Commerce and logistics,United States,"Omair Tariq, Remington Tonar[420]",0,404
+Incode,1.25,December 2021[421],Technology,Mexico,,0,405
+Applied Intuition,1.25,October 2020[422],Software,United States,,0,406
+BigID,1.25,May 2018[423],Cybersecurity,Israel /  United States,,0,407
+Marshmallow,1.25,September 2021[426],Insurance,United Kingdom,,0,408
+Rec Room,1.25,March 2021[427],Video games,United States,,0,409
+Spiber,1.22,September 2021[428],Biotechnology,Japan,,0,410
+Insider,1.22,March 2022[429],AI-powered SaaS,Turkey,Hande Çilingir,0,411
+Merama,1.2,December 2021[430],E-commerce,Mexico,,0,412
+Ada,1.2,May 2021[431],Software,Canada,,0,413
+Alation,1.2,June 2021[432],Software,United States,"Satyen Sangani, Aaron Kalb, Feng Niu, and Venky Ganti",0,414
+Axonius,1.2,March 2021[433],Cybersecurity,Israel /  United States,,0,415
+CarDekho,1.2,October 2021[434],Marketplace,India,,0,416
+Copado,1.2,September 2021,Software,Spain /  United States,,0,417
+Dental Monitoring,1.2,October 2021[435],Healthcare,France,,0,418
+Deutsche Health,1.2,August 2020[196],Biotech/Medical,Germany /  Russia,,0,419
+Droom,1.2,July 2021[436],Marketplace,India,Sandeep Aggarwal,0,420
+FloQast,1.2,July 2021[438],Software,United States,,0,421
+Forto,1.2,June 2021[439],Software,Germany,,0,422
+Intercom,1.2,March 2018[440],Software,United States,,0,423
+Kyriba,1.2,October 2021[441],Cloud software,France,,0,424
+Mindtickle,1.2,August 2021[442],Software as a service,India,,0,425
+MyGlamm,1.2,November 2021[443],E-commerce,India,,0,426
+Triple-1,1.2,January 2023 [336],Blockchain,Japan,,0,427
+Rohlik,1.2,June 2021[444],Retail,Czech Republic,,0,428
+upGrad,1.2,August 2021[445],Educational technology,India,,0,429
+Warhound,1.2,October 2026 (2026-10)[446],Biotechnology,United States,"Ben Lamm, Palmer Luckey",0,430
+Workhuman,1.2,June 2020[447],Software,Ireland,,0,431
+HappyRobot,1.2,August 2026[448],Artificial Intelligence,United States,,0,432
+Sysdig,1.18,April 2021[449],Cybersecurity,United States,,0,433
+Deputy,1.1,March 2024[450],Workforce management software,Australia,Ashik Ahmed and Steve Shelley,0,434
+"3DOM Alliance, Inc.",1.1,January 2023 [336],Battery manufacturing,Japan,,0,435
+Acko,1.1,October 2021[451],Insurance,India,,0,436
+Carousell,1.1,September 2021[453],Marketplace,Singapore,,0,437
+CoinDCX,1.1,August 2021[454],Cryptocurrency,India,"Sumit Gupta, Neeraj Khandelwal",0,438
+Purplle,1.1,June 2022[455],E-Commerce,India,"Manish Taneja, Rahul Dash",0,439
+Nexthink,1.1,February 2021[457],Technology,Switzerland,,0,440
+Sisense,1.1,January 2020[458],Business intelligence,Israel /  United States,,0,441
+Drools,1.1,January 2023[459],Pet food,India,,0,442
+Substack,1.1,July 2025[461],Media and Publishing,United States,"Chris Best, Hamish McKenzie, Jairaj Sethi",0,443
+Virta Health,1.1,December 2020[463],Healthcare,United States,,0,444
+YouniteD,1.1,December 2022[464],Financial services,France,"Charles Égly, Geoffroy Guigou",0,445
+Benevity,1.1,December 2020[465],Software as a service,Canada,Bryan de Lottinville,0,446
+Zego,1.1,March 2021[466],Insurance,United Kingdom,,0,447
+ClassDojo,1.25,July 2022[477],Education Technology,United States,"Sam Chaudhary, Liam Don",0,448
+Blacksmith,1.0,October 2026 (2026-10)[487],Software,United States,Aditya Jayaprakash,0,449
+Daytona,1.0,October 2026 (2026-10)[492],Cloud computing,United States,Ivan Burazin,0,450
+Staffbase,1.1,March 2022[564],Software as a service,Germany,"Frank Wolf, Lutz Gerlach, Martin Böhringer",0,451
+Thatch,1.0,September 2026[571],Individual health benefits,United States,"Adam Stevenson, Chris Ellis",0,452
+Ecovadis,1.0,August 2022[134],"Environmental, social, and corporate governance",France,,0,453
+Scandit,1.0,February 2022[591],Software,Switzerland,"Samuel Mueller, Christian Floerkemeier, Christof Roduner",0,454
+Neo Financial,1.0,May 2022[594],Financial technology,Canada,"Andrew Chau, Jeff Adamson, Kris Read",0,455
+Stytch,1.0,November 2021[595],Cybersecurity,United States,"Reed McGinley-Stempel, Julianna Lamb",0,456
+IQM,1.0,July 2022[598],Quantum Computing,Finland,"Jan Goetz, Mikko Möttönen, Kuan Yen Tan, Juha Vartiainen",0,457
+Hostaway,1.0,December 2024[599],Vacation rental software platform,Finland,"Marcus Räder, Saber Kordestanchi, Mikko Nurminen",0,458
+Papara,1.0,July 2023[600],Fintech,Turkey,Ahmed Faruk Karslı,0,459
+SpaceX,1250.0,February 2026 (2026-02)[603],June 2026 (2026-06),IPO,1770,1,460
+Uber,72.0,August 2018[605],May 2019,IPO,82.4,1,461
+Shein,66.0,May 2023 (2023-05)[14],September 2026 (2026-09),IPO,26.5,1,462
+DiDi,62.0,July 2019[608],June 2021,IPO,73,1,463
+Cursor,29.0,November 2025 (2025-11)[610],June 2026,Acquired,60,1,464
+Facebook,50.0,January 2011,May 2012,IPO,104,1,465
+Xiaomi,45.0,April 2015,July 2018,IPO,70,1,466
+Alibaba,42.0,June 2016,September 2014,IPO,238,1,467
+Lufax,39.4,March 2019,October 2020,IPO,33,1,468
+UiPath,35.0,February 2021[616],April 2021,IPO,29,1,469
+Airbnb,31.0,March 2017[618],December 2020,IPO,100,1,470
+Nubank,30.25,June 2021[620],December 2021,IPO,45,1,471
+Meituan-Dianping,30.0,October 2017[196],September 2018,IPO,53,1,472
+Kuaishou,28.0,December 2019[622],January 2021,IPO,60.9,1,473
+Instacart,24.0,March 2022 (2022-03)[14],September 2023,IPO,11,1,474
+J&T Express,20.0,October 2023,October 2023,IPO,20,1,475
+CATL,20.0,March 2018[626],June 2018,IPO,12.3,1,476
+Tencent Music,18.0,January 2018,December 2018,IPO,21.3,1,477
+DoorDash,16.0,June 2020[629],December 2020,IPO,32.4,1,478
+Snap Inc,19.3,May 2016[5],March 2017,IPO,24,1,479
+Flipkart,15.5,May 2015[633],May 2018,Acquired,22,1,480
+Paytm,3.2,February 2024[635],November 2021,IPO,20,0,481
+Lyft,15.1,June 2018[637],March 2019,IPO,24.0,1,482
+Adyen,15.1,March 2018[5],June 2018,IPO,8.3,1,483
+Pinduoduo,15.0,April 2018[196],July 2018,IPO,60,1,484
+Grab,14.0,March 2019[641],December 2021,SPAC merger,40,1,485
+Pinterest,13.0,July 2018[643],April 2019,IPO,10.0,1,486
+Snowflake,12.4,Feb 2020[645],Dec 2020,IPO,33,1,487
+Robinhood,11.7,September 2020[646],July 2021,IPO,26.7,1,488
+Figma,10.0,June 2021 (2021-06)[648],July 2025 (2025-07),IPO,19.3,0,489
+Dropbox,10.0,January 2014[650],March 2018,IPO,12,0,490
+Squarespace,10.0,March 2021[652],May 2021,Direct listing,7.4,0,491
+Gojek,10.0,April 2019[654],May 2021,Merger to GoTo,10.5,0,492
+Zynga,9.1,February 2011,December 2011,IPO,7,0,493
+Coupang,9.0,November 2018[657],March 2021,IPO,58,0,494
+Spotify,8.53,March 2016[5],April 2018,Direct listing,30,0,495
+Skype,8.5,May 2011,September 2015,Acquired,2.6,0,496
+Wolt,8.1,November 2021[661],September 2021,Acquired,8.1,0,497
+Toast,8.0,November 2020[663],September 2021,IPO,20,0,498
+Twitter,8.0,September 2011,November 2013,IPO,14.2,0,499
+Coinbase,8.0,October 2018[666],April 2021,IPO,65,0,500
+Argo AI,7.25,July 2020[668],October 2022,Defunct,,0,501
+Tokopedia,7.0,December 2018[670],May 2021,Merger to GoTo,7.5,0,502
+Deliveroo,7.0,January 2021[671],March 2021,IPO,10.5,0,503
+Roivant Sciences,7.0,November 2018[674],September 2021,SPAC merger,7.3,0,504
+WeWork,7.0,November 2019[677],October 2021,SPAC merger,9,0,505
+"Compass, Inc.",6.4,July 2019[679][680],April 2021,IPO,7.0,0,506
+Gitlab,6.0,January 2021[681],October 2021,IPO,17,0,507
+Square,6.0,October 2014,November 2015,IPO,3.6,0,508
+SoFi,6.0,May 2020,May 2021,SPAC merger,8.65,0,509
+Zomato,5.4,February 2021[686],July 2021,IPO,8.7,0,510
+Samsara,5.4,May 2020[687],December 2021,IPO,11.6,0,511
+Stemcentrx,5.0,September 2015,April 2016,Acquired,5.8,0,512
+Nowports,1.1,May 2022,IPO,Logistics,5.0,0,513
+dLocal,6.1,April 2021[690],June 2021,IPO,Uruguay,0,514
+Groupon,4.75,December 2010[692],November 2011,IPO,13,0,515
+Krafton,5.0,August 2021[694],August 2021,IPO,25,0,516
+Confluent,4.5,April 2020[695],June 2021,IPO,9,0,517
+Ucar,4.4,March 2017,July 2016,IPO,5.5,0,518
+Zalando,4.03,November 2013,October 2014,IPO,6.7,0,519
+Amplitude,4.0,June 2021[700],September 2021,IPO,5,0,520
+Peloton,4.0,August 2018[702],September 2019,IPO,8.1,0,521
+Credit Karma,4.0,March 2018[703],December 2020,Acquired,8.1,0,522
+Ginkgo Bioworks,4.0,September 2019[704],September 2021,SPAC merger,2.5,0,523
+Lending Club,3.8,August 2014,December 2014,IPO,8.5,0,524
+Sea Limited,3.7,March 2016,October 2017,IPO,5.3,0,525
+Freshworks,3.5,November 2019,September 2021,IPO,10.13,0,526
+Bukalapak,3.5,April 2021[196],August 2021,IPO,6,0,527
+Wise,3.5,May 2019[710],July 2021,Direct listing,11,0,528
+Zhihu,3.5,August 2019[712],March 2021,IPO,5.3,0,529
+Atlassian,3.3,April 2014,December 2015,IPO,7.02,0,530
+e-Shang Redwood,3.25,July 2017[196],October 2019,IPO,6.7,0,531
+Udemy,3.25,November 2020[716],October 2021,IPO,4,0,532
+SmileDirectClub,3.2,October 2018,September 2019,IPO,8.9,0,533
+Zoox,3.2,July 2018[719],July 2020,Acquired,1.3,0,534
+Oscar Health,3.2,March 2018[721],March 2021,IPO,7.9,0,535
+Cloudflare,3.0,March 2019,September 2019,IPO,4,0,536
+Delhivery,3.0,May 2021[724],May 2022,IPO,4.6,0,537
+Pure Storage,3.0,August 2014[725],October 2015,IPO,3.1,0,538
+Maoyan,3.0,November 2017,January 2019,IPO,2.2,0,539
+Jia.com,3.0,February 2015[196],July 2018,IPO,0.74,0,540
+Mogu,3.0,January 2016,December 2018,IPO,1.3,0,541
+Paytm Mall,3.0,July 2019[729],May 2022,Devaluation,0.013,0,542
+Luckin Coffee,2.9,April 2019[196][731],May 2019,IPO,,0,543
+Pivotal,2.8,May 2016[5],April 2018,IPO,3.9,0,544
+Monday.com,2.7,May 2020[734],June 2021,IPO,6.8,0,545
+Cazoo,2.6,September 2020[736],August 2021,SPAC merger,8,0,546
+Woowa Brothers,2.6,March 2018[493],December 2019,Acquired,4,0,547
+Ucommune,2.6,August 2018[196],November 2020,SPAC merger,0.769,0,548
+Coursera,2.5,July 2020[739],March 2021,IPO,4.3,0,549
+Cambricon,2.5,June 2018[196],June 2020,IPO,,0,550
+The Hut Group,2.5,August 2017[742],September 2020,IPO,5.8,0,551
+Postmates,2.4,September 2019[744],December 2020,Acquired,2.65,0,552
+Box,2.4,July 2014,January 2015,IPO,1.67,0,553
+Mercari,2.4,March 2018[747],June 2018,IPO,3.7,0,554
+Kingsoft,2.4,January 2018[196],May 2020,IPO,3.7,0,555
+Sportradar,2.4,July 2018[750],September 2021,IPO,21,0,556
+PolicyBazaar,2.4,March 2021[752],November 2021,IPO,6,0,557
+GoPro,2.25,December 2012,June 2014,IPO,2.96,0,558
+Babytree,2.19,May 2018,November 2018,IPO,1.47,0,559
+"Roku, Inc.",2.1,September 2017,September 2017,IPO,2.1,0,560
+Three Squirrels,2.09,September 2015[196],July 2019,IPO,0.86,0,561
+AppDynamics,2.05,November 2015,January 2017,Acquired,3.7,0,562
+AvidXchange,2.0,January 2020[759],October 2021,IPO,4.9,0,563
+Wayfair,2.0,March 2014,October 2014,IPO,2.4,0,564
+NantHealth,2.0,January 2016,June 2016,IPO,1.7,0,565
+Meitu,2.0,December 2014,December 2016,IPO,4.6,0,566
+Nutanix,2.0,September 2016,September 2016,IPO,2.21,0,567
+Uxin,2.0,January 2017[196],June 2018,IPO,,0,568
+Careem,2.0,October 2018,March 2019,Acquired,3.1,0,569
+AppLovin,2.0,July 2018[765],April 2021,IPO,28.6,0,570
+ReNew Power,2.0,February 2017[767],August 2021,SPAC merger,4.5,0,571
+Deliverr,2.0,November 2021[769],May 2022,Acquired,2.1,0,572
+Auth0,1.92,July 2020[771],March 2021,Acquired,6.5,0,573
+Mobileye,1.9,July 2013,August 2014,IPO,7.6,0,574
+WalkMe,1.9,December 2019,June 2021,IPO,2.6,0,575
+Avito.ru,1.82,February 2014[5][774],January 2019,Acquired,1.16,0,576
+23andMe,1.75,September 2017[776],June 2021,SPAC merger,3.5,0,577
+IronSource,1.75,October 2019[778],June 2021,SPAC merger,11,0,578
+MedMen,1.65,February 2018[780],May 2018,Reverse takeover,2.0,0,579
+Better Place,1.6,November 2012,July 2013,Acquired,0.012,0,580
+Loom,1.53,May 2021[781],Video messaging,Acquired,0.975,0,581
+Farfetch,1.5,May 2016[782],September 2018,IPO,6.2,0,582
+Freshly,1.5,October 2020[784],October 2020,Acquired,1.5,0,583
+MuleSoft,1.5,May 2015,March 2015,"IPO, Acquired",6.5,0,584
+Jet.com,1.5,November 2015[785],August 2016,Acquired,3.3,0,585
+LivingSocial,1.5,February 2013,October 2016,Acquired,,0,586
+WhatsApp,1.5,July 2013,February 2014,Acquired,19,0,587
+Lakala,1.5,June 2015[196],April 2019,IPO,,0,588
+UCloud,1.5,June 2018[196],January 2020,IPO,1.9,0,589
+One Medical,1.5,August 2018[788],January 2020,IPO,1.7,0,590
+Quikr,1.5,October 2015[790],February 2020,Devalued,0.57,0,591
+Letgo,1.5,August 2018[792],March 2020,Acquired,,0,592
+Ninebot,1.5,October 2017[196],October 2020,IPO,,0,593
+DouYu,1.5,March 2018[196],July 2019,IPO,3.73,0,594
+Proteus Digital Health,1.5,February 2016[796],July 2020,Bankruptcy,,0,595
+Duolingo,1.5,December 2019,July 2021,IPO,3.6,0,596
+Tuandaiwang,1.46,May 2017[196],April 2019,Bankruptcy,,0,597
+HomeAway,1.4,October 2010,November 2016,Acquired,3.9,0,598
+Hike Messenger,1.4,August 2016[767],January 2021,Defunct,,0,599
+Deezer,1.4,January 2016[801],September 2016,Acquired,,0,600
+Jasper,1.35,April 2014,February 2016,Acquired,1.4,0,601
+Paidy,1.32,March 2021[803],September 2021,Acquired,2.7,0,602
+eFront,1.3,March 2019[805],May 2019,Acquired,1.3,0,603
+Sonder Corp.,1.3,July 2020[807],January 2022,SPAC merger,1.9[809],0,604
+Sunrun,1.3,July 2016,August 2015,IPO,1.4,0,605
+Solstice,1.7,July 2018,December 2009,Acquired,1.3,0,606
+Darktrace,1.25,May 2018[810],April 2021,IPO,2.37,0,607
+Okta,1.2,March 2017,April 2017,IPO,2.1,0,608
+Good Technology,1.2,September 2014,September 2015,Acquired,0.425,0,609
+BigBasket,1.2,March 2019[813],February 2021,"Acquired by TATA Group
+IPO (coming soon by 2024 - 2025 FY)",1.8,0,610
+Nykaa,1.2,April 2020[815],November 2021,IPO,7.4,0,611
+HeadSpin,1.16,February 2020,August 2020,Devalued,0.25,0,612
+Fab,1.15,August 2013,March 2015,Acquired,0.015,0,613
+Gilt Groupe,1.15,February 2015,January 2016,Acquired,0.25,0,614
+Vonage,1.11,August 2014,May 2006,IPO,2.65,0,615
+ShopClues,1.1,January 2016,October 2019,Acquired,0.1,0,616
+Global Fashion Group,1.1,July 2016[819],July 2019,IPO,,0,617
+TuSimple,1.1,February 2019[821],April 2021,IPO,8.5,0,618
+Wheels Up,1.1,August 2019[823],July 2021,SPAC merger,2.1,0,619
+Zulily,1.09,November 2012,October 2015,Acquired,2.4,0,620
+Coupa,1.08,June 2015,October 2016,IPO,1.68,0,621
+LinkedIn,1.06,February 2016,May 2011,IPO,4.3,0,622
+Twilio,1.03,July 2015,June 2016,IPO,1.2,0,623
+SimpliVity,1.03,March 2015,January 2017,Acquired,0.65,0,624
+Coveo,1.1,November 2019,November 2021,IPO,1.7,0,625
+CRF Health,1.0,July 2018,July 2018,Acquisition,1,0,626
+MySQL,1.0,January 2008,January 2008,Acquisition,1,0,627
+Heptagon,1.0,February 2018,February 2018,Acquisition,1,0,628
+Zoom,1.0,January 2017,April 2019,IPO,9.0,0,629
+Shopify,1.0,December 2013,May 2015,IPO,1.3,0,630
+Truecaller,1.0,July 2015[832],October 2021,IPO,2,0,631
+AirWatch,1.0,May 2013,January 2014,Acquired,1.54,0,632
+Lynda.com,1.0,January 2015,April 2015,Acquired,1.5,0,633
+New Relic,1.0,April 2014,December 2014,IPO,1.42,0,634
+Quotient Technology,1.0,April 2016,March 2014,IPO,1.17,0,635
+Shape Security,1.0,September 2019[834],December 2019,Acquired,1,0,636
+Skyscanner,1.6,February 2016[838],November 2016,Acquired,1.74,0,637
+Blue Apron,2.0,January 2015[5],June 2017,IPO,2,0,638
+Shazam,1.0,January 2015[843],December 2017,Acquired,0.4,0,639
+Mobike,3.0,July 2017[847],April 2018,Acquired,2.7,0,640
+Ele.me,6.0,June 2017[196][849],April 2018,Acquired,9.5,0,641
+Duo Security,1.17,October 2017[851],August 2018,Acquired,2.35,0,642
+Bloom Energy,2.83,January 2015[5],July 2018,IPO,1.6,0,643
+Moderna Therapeutics,7.5,February 2018[854],December 2018,IPO,7.5,0,644
+Vlocity,1.0,March 2019[855],February 2020,Acquired,1.33,0,645
